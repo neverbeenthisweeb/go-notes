@@ -5,7 +5,7 @@
 ```
 .
 └── topic
-    ├── README.md
+    ├── topic.md
     └── src
         └── main.go
 ```
