@@ -8,7 +8,7 @@
 │   └── topic
 │       ├── src
 │       │   └── main.go
-│       └── topic.md
+│       └── README.md
 ├── LICENSE
 └── README.md
 
