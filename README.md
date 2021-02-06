@@ -2,8 +2,6 @@
 
 ### Folder Structure
 
-Any topic must follow the folder structure below:
-
 ```
 .
 └── topic
@@ -11,3 +9,5 @@ Any topic must follow the folder structure below:
     └── src
         └── main.go
 ```
+
+Feel free to make PRs of any Pythonic topics. :bear:
