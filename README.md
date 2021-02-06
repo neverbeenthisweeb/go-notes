@@ -10,4 +10,4 @@
         └── main.go
 ```
 
-Feel free to make PRs of any Pythonic topics. :bear:
+Feel free to make PRs of any Go topics. :bear:
